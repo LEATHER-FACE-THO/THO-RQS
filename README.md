@@ -36,7 +36,7 @@ THO-RQS es una herramienta automatizada para la instalación rápida y eficiente
 ## 📥 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/THO-RQS
+git clone https://github.com/LEATHER-FACE-THO/THO-RQS
 cd THO-RQS
 chmod +x tho.sh
 ./tho.sh
@@ -83,4 +83,5 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 ---
 
 ⌨️ con ❤️ por [Tu Nombre]
+
 
