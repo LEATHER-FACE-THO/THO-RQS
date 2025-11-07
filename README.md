@@ -78,8 +78,9 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 ## 💬 Contacto
 
 - Creador: [LEATHER-FACE-THO]
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [LEATHER-FACE-THO](https://github.com/LEATHER-FACE-THO)
 
 ---
 
 ⌨️ con ❤️ por [Tu Nombre]
+
