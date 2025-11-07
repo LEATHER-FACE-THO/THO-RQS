@@ -1,6 +1,6 @@
 # THO-RQS ( INSTALAR TODAS LAS DEPENDENCIAS DE TERMUX )
 
-![Banner](http)
+![Banner](https://github.com/LEATHER-FACE-THO/THO-RQS/blob/main/banner.png)
 
 ## 📱 Descripción
 
@@ -81,4 +81,5 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 - GitHub: [@tu-usuario](https://github.com/tu-usuario)
 
 ---
+
 ⌨️ con ❤️ por [Tu Nombre]
